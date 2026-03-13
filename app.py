@@ -44,3 +44,4 @@ else:
 
     else:
         print("Unknown option")
+        print("Script finished")
