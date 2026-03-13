@@ -1,3 +1,5 @@
+# GitHub API automation script
+
 import requests
 
 username = input("Enter GitHub username: ")
