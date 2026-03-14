@@ -1,0 +1,57 @@
+[
+    {
+        "name": "1590A",
+        "stars": 547,
+        "language": "OpenSCAD"
+    },
+    {
+        "name": "AudioNoise",
+        "stars": 4287,
+        "language": "C"
+    },
+    {
+        "name": "GuitarPedal",
+        "stars": 1816,
+        "language": "C"
+    },
+    {
+        "name": "HunspellColorize",
+        "stars": 313,
+        "language": "C"
+    },
+    {
+        "name": "libdc-for-dirk",
+        "stars": 375,
+        "language": "C"
+    },
+    {
+        "name": "libgit2",
+        "stars": 342,
+        "language": "C"
+    },
+    {
+        "name": "linux",
+        "stars": 222695,
+        "language": "C"
+    },
+    {
+        "name": "pesconvert",
+        "stars": 551,
+        "language": "C"
+    },
+    {
+        "name": "subsurface-for-dirk",
+        "stars": 439,
+        "language": "C++"
+    },
+    {
+        "name": "test-tlb",
+        "stars": 955,
+        "language": "C"
+    },
+    {
+        "name": "uemacs",
+        "stars": 1929,
+        "language": "C"
+    }
+]
